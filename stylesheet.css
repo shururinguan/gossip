@@ -15,7 +15,7 @@
 
   ul{
     margin-left:450px;
-    border-bottom:2px solid white;
+    border-bottom:2px solid red;
   }
 
   .main{
@@ -23,7 +23,7 @@
   }
 
   h1{
-    color:white;
+    color:red;
     font-size:60px;
     font-family:impact;
     text-align:center;
@@ -37,7 +37,7 @@
   }
 
   p{
-    color:white;
+    color:red;
   }
 
   li{
