@@ -85,20 +85,20 @@
 @media screen and (max-width:480px){
     .ad{
     height:200px;
-    width:480px;
+    width:300px;
   }
 
   header{
     background-color:black;
-    height:200px
+    height:100px
   }
 
   .logo{
-    margin-left:470px;
+    margin-left:100px;
   }
 
   ul{
-    margin-left:450px;
+    margin-left:100px;
     border-bottom:2px solid white;
   }
 
