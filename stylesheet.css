@@ -85,7 +85,7 @@
 @media screen and (max-width:480px){
     .ad{
     height:200px;
-    width:px;
+    width:600px;
   }
 
   header{
@@ -107,10 +107,12 @@
   }
 
   h1{
+    display:inline-block;  
     color:red;
     font-size:28px;
     font-family:impact;
     text-align:center;
+    height:70px;
     
 
   }
@@ -122,6 +124,7 @@
   }
 
   p{
+    display:inline-block;
     color:red;
     position:realtive;
     bottom:50px;
