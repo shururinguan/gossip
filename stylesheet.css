@@ -108,12 +108,9 @@
 
   h1{
     color:red;
-    font-size:28px;
+    font-size:30px;
     font-family:impact;
-    text-align:left;
-  }
-  .headwrapper{
-    height:200px;
+    text-align:center;
   }
 
   html{
