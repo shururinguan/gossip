@@ -107,14 +107,13 @@
   }
 
   h1{
-      
     color:red;
     font-size:28px;
     font-family:impact;
     text-align:left;
+  }
+  .headwrapper{
     height:200px;
-    
-
   }
 
   html{
