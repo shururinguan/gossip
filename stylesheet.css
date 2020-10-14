@@ -85,12 +85,12 @@
 @media screen and (max-width:480px){
     .ad{
     height:200px;
-    width:480px;
+    width:600px;
   }
 
   header{
     background-color:black;
-    height:100px
+    height:80px
   }
 
   .logo{
@@ -107,8 +107,8 @@
   }
 
   h1{
-    color:white;
-    font-size:30px;
+    color:red;
+    font-size:25px;
     font-family:impact;
     text-align:center;
 
@@ -140,10 +140,13 @@
     padding-left:5px;
     padding-top:5px;
     padding-bottom:5px;
+    width:60px;
+    
   }
 
   a{
     font-size:45px
+    background-color:#FFDDFF;
   }
 
   a:hover{
